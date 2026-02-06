@@ -14,7 +14,7 @@ README.md   # Project overview
 
 ## License
 This project is licensed under the MIT License.
-See the LICENSE file for details.
+See the [LICENSE](LICENSE.md) file for details.
 
 ## Authors
 [Authors](docs/authors.md)
